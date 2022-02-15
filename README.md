@@ -11,20 +11,21 @@ Este modulo tiene como objetivo la automatización de casos de prueba de cualqui
 ## :gear: Requerimientos
 
 - Editor de código
-  - Eclipse IDE
+  - <a href="https://www.eclipse.org/downloads/" target="_blank">Eclipse IDE</a>
 - Control de versiones.
-  - Git
-  - Tener una cuenta de GitHub
+  - <a href="#" target="_blank">Git</a>
+  - <a href="#" target="_blank">Tener una cuenta de GitHub</a>
 - Entorno de pruebas de software (Web)
-  - Selenium Java Client
-  - Selenium Webdriver
-  - Selenium Grid
+  - <a href="https://www.selenium.dev/downloads/" target="_blank">Selenium Java Client</a>
+  - <a href="https://www.selenium.dev/downloads/" target="_blank">Selenium Webdriver</a>
+  - <a href="https://www.selenium.dev/downloads/" target="_blank">Selenium Grid</a>
+  - <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Java SDK</a>
 - Entorno de pruebas de software (Mobile)
-  - Appium
-  - Android SDK
+  - <a href="http://appium.io/" target="_blank">Appium</a>
+  - <a href="https://developer.android.com/studio#tos-header" target="_blank">Android SDK</a>
 - Bases de Datos
-  - MySQL Server 
-  - MySQL Workbench
+  - <a href="https://dev.mysql.com/downloads/mysql/" target="_blank">MySQL Server</a>
+  - <a href="https://dev.mysql.com/downloads/workbench/" target="_blank">MySQL Workbench</a>
 
 ## 💻 Proyecto
 
